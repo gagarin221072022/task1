@@ -6,5 +6,5 @@ int fl;
 
 int main()
 {
-   return(solution(1, 5, -41, &fl, &x1, &x2));
+   solution(1, 5, -41, &fl, &x1, &x2);
 }
