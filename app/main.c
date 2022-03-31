@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+#include<solution.h>
 float x1, x1;
 int fl;
 
