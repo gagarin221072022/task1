@@ -21,7 +21,7 @@ TEST(negative, num2){
 
 TEST(greather_0root, num1){
     solution(1, 0, 8, &fl, &x1, &x2);
-    ASSERT_EQ(fl, 0);
+    ASSERT_EQ(fl, -1);
 }
 
 TEST(greather_0root, num2){
