@@ -26,7 +26,7 @@ void solution(double a, double b, double c, int *fl, float *x1, float *x2){
           *x1 = sqrt(-c/a);
           *x2 = -sqrt(-c/a);
          }else{
-          *fl = 0;
+          *fl = -1;
           } 
           return;
         } 
